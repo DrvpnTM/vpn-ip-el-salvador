@@ -1,18 +1,17 @@
-# VPN IP El Salvador — Dr VPN
+# VPN IP El Salvador — Fast, Secure VPN for El Salvador
 
-**VPN IP El Salvador** is a fast, secure and free VPN for Android. Get a **El Salvador IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP El Salvador** is a free, open-source, ad-free VPN app for Android, built for users in El Salvador. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP El Salvador (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_sv_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-el-salvador/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- El Salvador IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN El Salvador, El Salvador VPN, VPN IP El Salvador, El Salvador IP address, free VPN El Salvador, buy VPN El Salvador, fast VPN El Salvador, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN El Salvador, free VPN El Salvador, fast VPN, VPN IP El Salvador, Android VPN, unblock websites El Salvador.</sub>
